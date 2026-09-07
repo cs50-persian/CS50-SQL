@@ -39,14 +39,18 @@ Throughout CS50 SQL, you will learn:
 * Filtering & Sorting Data
 * Aggregate Functions
 * Joins
-* Subqueries
 * Database Normalization
 * Indexes
 * Views
-* Transactions
-* Data Modeling
 * Query Optimization
 * Real-world SQL Problem Solving
+* Querying
+* Relating
+* Designing
+* Writing
+* Viewing
+* Optimizing
+* Scaling
 
 By the end of the course, you will have a strong foundation in SQL and relational databases and be able to apply these skills to real-world software projects.
 
