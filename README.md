@@ -1,7 +1,7 @@
 # CS50-SQL# CS50 SQL — Persian Edition 🇮🇷
 
-- > **اگر فارسی زبان هستید به [صفحه فارسی](https://github.com/cs50-persian/CS50-SQL/blob/main/Persian.md) مراجعه فرمایید.**
-- > **Harvard University's CS50 SQL course, now available in Persian for Persian-speaking learners through CS50x Persian.**
+* > **اگر فارسی زبان هستید به [صفحه فارسی](https://github.com/cs50-persian/CS50-SQL/blob/main/Persian.md) مراجعه فرمایید.**
+* > **Harvard University's CS50 SQL course, now available in Persian for Persian-speaking learners through CS50x Persian.**
 
 ---
 
@@ -111,7 +111,7 @@ For course access, enrollment information, and available learning options, pleas
 
 ## 🤝 Our Mission
 
-At **CS50x Persian**, we believe language should never be a barrier to learning computer science.
+At **CS50x Persian**, we believe language and country should never be a barrier to learning computer science.
 
 Our mission is to help Persian-speaking learners access some of the world's best computer science education through high-quality Persian educational content.
 
