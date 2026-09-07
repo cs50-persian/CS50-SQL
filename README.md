@@ -80,7 +80,10 @@ The original CS50 SQL course is taught by:
 * **David J. Malan**
 * **Carter Zenke**
 
-The Persian edition is made available to Persian-speaking learners through the **CS50x Persian** team and its educational efforts.
+The special version for Persian taught by:
+
+* **Borna Etminan**
+* **Saeid Souri**
 
 ---
 
