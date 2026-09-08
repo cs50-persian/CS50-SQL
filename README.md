@@ -140,4 +140,4 @@ Your support helps us continue making high-quality computer science education mo
 
 **Learn. Build. Share. 🇮🇷**
 
-> **This document was created by [Borna Etminan](https://github.com/boran-etminan), an official member of the Harvard University CS50 Persian team and the main admin of this Github account.**
+> **This document was created by [Borna Etminan](https://github.com/borna-etminan), an official member of the Harvard University CS50 Persian team and the main admin of this Github account.**
