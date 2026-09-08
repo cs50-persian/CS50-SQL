@@ -33,24 +33,24 @@ The Persian edition makes these concepts accessible to students who prefer learn
 
 Throughout CS50 SQL, you will learn:
 
-* Introduction to Databases
-* Relational Databases
-* SQL Syntax
-* Filtering & Sorting Data
-* Aggregate Functions
 * Joins
-* Database Normalization
 * Indexes
 * Views
-* Query Optimization
-* Real-world SQL Problem Solving
+* Scaling
+* Writing
+* Viewing
 * Querying
 * Relating
 * Designing
-* Writing
-* Viewing
+* SQL Syntax
 * Optimizing
-* Scaling
+* Query Optimization
+* Aggregate Functions
+* Relational Databases
+* Database Normalization
+* Filtering & Sorting Data
+* Introduction to Databases
+* Real-world SQL Problem Solving
 
 By the end of the course, you will have a strong foundation in SQL and relational databases and be able to apply these skills to real-world software projects.
 
@@ -62,11 +62,11 @@ CS50x Persian is dedicated to making high-quality computer science education ava
 
 Our Persian CS50 SQL course provides:
 
-* 🇮🇷 Persian-language educational content
-* 🎥 Professionally translated course lessons
-* 📚 Persian learning resources
 * 💻 Practical SQL exercises
+* 📚 Persian learning resources
+* 🇮🇷 Persian-language educational content
 * 🗄️ Database-focused projects and examples
+* 🎥 Professionally translated course lessons
 * 🌱 A learning experience designed for Persian-speaking students
 
 Whether you are completely new to databases or looking to strengthen your SQL skills, this course is designed to help you learn step by step.
@@ -77,13 +77,13 @@ Whether you are completely new to databases or looking to strengthen your SQL sk
 
 The original CS50 SQL course is taught by:
 
-* **David J. Malan**
-* **Carter Zenke**
+* **[David J. Malan](https://github.com/dmalan)**
+* **[Carter Zenke](https://github.com/carterzenke)**
 
 The special version for Persian taught by:
 
-* **Borna Etminan**
-* **Saeid Souri**
+* **[Borna Etminan](https://github.com/borna-etminan)**
+* **[Saeid Souri](https://github.com/saeid-souri)**
 
 ---
 
@@ -123,10 +123,10 @@ From programming fundamentals to databases and beyond, we are working to make le
 
 We would like to express our gratitude to:
 
-* **Harvard University**
+* **Carter Zenke**
 * **The CS50 Team**
 * **David J. Malan**
-* **Carter Zenke**
+* **Harvard University**
 * **CS50x Persian community**
 * And everyone who helps make high-quality computer science education accessible to Persian speakers.
 
@@ -139,3 +139,5 @@ If this project helps you learn SQL or databases, consider giving the repository
 Your support helps us continue making high-quality computer science education more accessible to the Persian-speaking community.
 
 **Learn. Build. Share. 🇮🇷**
+
+> **This document was created by [Borna Etminan](https://github.com/boran-etminan), an official member of the Harvard University CS50 Persian team and the main admin of this Github account.**
