@@ -1,4 +1,4 @@
-# CS50 SQL — Persian Edition 🇮🇷
+# CS50 SQL — Persian Edition
 
 * > **اگر فارسی زبان هستید به [صفحه فارسی](https://github.com/cs50-persian/CS50-SQL/blob/main/Persian.md) مراجعه فرمایید.**
 * > **Harvard University's CS50 SQL course, now available in Persian for Persian-speaking learners through CS50x Persian.**
@@ -64,7 +64,7 @@ Our Persian CS50 SQL course provides:
 
 * 💻 Practical SQL exercises
 * 📚 Persian learning resources
-* 🇮🇷 Persian-language educational content
+*  Persian-language educational content
 * 🗄️ Database-focused projects and examples
 * 🎥 Professionally translated course lessons
 * 🌱 A learning experience designed for Persian-speaking students
@@ -138,6 +138,6 @@ If this project helps you learn SQL or databases, consider giving the repository
 
 Your support helps us continue making high-quality computer science education more accessible to the Persian-speaking community.
 
-**Learn. Build. Share. 🇮🇷**
+**Learn. Build. Share.**
 
 > **This document was created by [Borna Etminan](https://github.com/borna-etminan), an official member of the Harvard University CS50 Persian team and the main admin of this Github account.**
